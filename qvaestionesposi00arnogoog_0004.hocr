@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qvaestionesposi00arnogoog_0004.png"; bbox 0 0 3425 5192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 349 3989 1533 4183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 349 3989 1533 4183">
+     <span class='ocr_line' id='line_1_1' title="bbox 349 3989 1533 4058; baseline 0.006 -16"><span class='ocrx_word' id='word_1_1' title='bbox 349 3989 525 4045; x_wconf 86' lang='lat' dir='ltr'>Rettulerunt</span> <span class='ocrx_word' id='word_1_2' title='bbox 535 3990 569 4043; x_wconf 87' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_3' title='bbox 580 3989 690 4044; x_wconf 86' lang='lat' dir='ltr'>Ordinis</span> <span class='ocrx_word' id='word_1_4' title='bbox 700 3991 851 4058; x_wconf 79' lang='lat' dir='ltr'>philologos</span> <span class='ocrx_word' id='word_1_5' title='bbox 862 3992 896 4044; x_wconf 86' lang='lat' dir='ltr'>do</span> <span class='ocrx_word' id='word_1_6' title='bbox 908 3991 959 4043; x_wconf 80' lang='lat' dir='ltr'>hoo</span> <span class='ocrx_word' id='word_1_7' title='bbox 969 3989 1163 4044; x_wconf 77' lang='lat' dir='ltr'>dissertatione</span> <span class='ocrx_word' id='word_1_8' title='bbox 1178 3989 1407 4058; x_wconf 86' lang='lat' dir='ltr'>Waohsmuth‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 1422 3992 1533 4053; x_wconf 84' lang='lat' dir='ltr'><strong>Marx.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 455 4114 1244 4183; baseline 0 -15"><span class='ocrx_word' id='word_1_10' title='bbox 455 4114 564 4183; x_wconf 76' lang='lat' dir='ltr'>Lipsiae</span> <span class='ocrx_word' id='word_1_11' title='bbox 583 4114 627 4169; x_wconf 87' lang='lat' dir='ltr'>die</span> <span class='ocrx_word' id='word_1_12' title='bbox 645 4115 748 4168; x_wconf 90' lang='lat' dir='ltr'>XXIII.</span> <span class='ocrx_word' id='word_1_13' title='bbox 763 4115 862 4168; x_wconf 86' lang='lat' dir='ltr'>mensis</span> <span class='ocrx_word' id='word_1_14' title='bbox 882 4114 1005 4168; x_wconf 76' lang='lat' dir='ltr'>Octobris</span> <span class='ocrx_word' id='word_1_15' title='bbox 1024 4130 1048 4169; x_wconf 82' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1067 4114 1244 4169; x_wconf 81' lang='lat' dir='ltr'>MDCOOOII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 990 4294 1204 4348">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 990 4294 1204 4348">
+     <span class='ocr_line' id='line_1_3' title="bbox 990 4294 1204 4348; baseline 0.005 -1"><span class='ocrx_word' id='word_1_17' title='bbox 990 4294 1204 4348; x_wconf 84' lang='lat' dir='ltr'>Proosnoellsrio</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1073 4419 1415 4501">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1073 4419 1415 4501">
+     <span class='ocr_line' id='line_1_4' title="bbox 1073 4419 1415 4501; baseline -0.006 -1"><span class='ocrx_word' id='word_1_18' title='bbox 1073 4419 1207 4501; x_wconf 83' lang='lat' dir='ltr'>Gorolo</span> <span class='ocrx_word' id='word_1_19' title='bbox 1236 4419 1415 4500; x_wconf 86' lang='lat' dir='ltr'>Buoohor.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1718 5192">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1718 5192">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1718 5192; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1718 5192; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

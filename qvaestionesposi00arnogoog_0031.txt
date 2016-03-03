@@ -1,0 +1,26 @@
+Si, exempli causa, trianguli aequicrurii latera duplicentur,
+efficietur huius trianguli basis duplex prioris, Dein si huius
+trianguli latera duplicentur efficietur triangulum aequicrurium
+cuius basis quadruplex erit eius quac basis fuit primi trian-
+guli. Atque eadcm haec ratio progreditur in infinitum.
+
+Of. Eucl. Elem. VI, 9. 12.(v01.II‚105.109.ed.Heib.)-Eucl.
+Data 34. 35. (vol. VI, 57 sqq. ed. Heib.)
+
+Quam rem quia satis probari nisi geometres adiuverit
+non potest explicabo hisce duabus descriptionibus,
+
+Ponamus nunc:
+
+A: unde oculis spectatoris cernantur insula et sol
+l: insulam.
+S: solem.
+
+AI= I S, 1. e. insulam distare anobis eodem spatio atquc
+solem ab insula.
+
+B'o' ΙΙ ΒΟ, 1. e. dimetientes B'o' ct ΒΟ 5555 ita descriptas
+ut sint parallelae.
+
+ 
+
